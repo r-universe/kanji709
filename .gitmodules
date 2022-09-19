@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "marp"]
-	path = marp
-	url = https://github.com/kanji709/marp
-	shallow = true
-	registered = true
